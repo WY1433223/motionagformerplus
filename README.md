@@ -1,5 +1,5 @@
 # motionagformerplus
-"This project is about 3D human pose estimation, which is an improvement on the MotionAGFormer code, achieving a reduction in P1 and P2. Currently, P1 is 37.80 and P2 is 31.98."
+"This project is about 3D human pose estimation, which is an improvement on the MotionAGFormer code, achieving a reduction in P1 and P2. Currently, P1 is 37.6 and P2 is 31.7."
 
 The open-source code will be released after I finish my thesis, which may take a long time.
 
